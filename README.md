@@ -43,14 +43,14 @@ This project is built using Node.js, Express, and Socket.IO to create a real-tim
 Set Up Your Backend:
 
 ## Create a new directory for your backend code.
-## Inside that directory, create a file named server.js and copy your backend code into it.
+## Inside that directory, create a file named index.js and copy your backend code into it.
 ## Install Dependencies: 
 Open a terminal in the backend directory and run:
 
 ### 'npm install express socket.io qrcode cors'
 
 # Running the Server:
-### node server.js
+### node index.js
 Runs the server in development mode.
 
 # Open http://localhost:3001 to connect with the frontend application.
